@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="benchmarks/src"/>
+	<classpathentry kind="src" path="compile/src"/>
+	<classpathentry kind="src" path="examples/src"/>
+	<classpathentry kind="src" path="io/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="util/src"/>
+	<classpathentry kind="lib" path="compile/external/bcel-5.3-SNAPSHOT-1000411.jar"/>
+	<classpathentry kind="lib" path="external/antenna-bin-1.0.0.jar"/>
+	<classpathentry kind="lib" path="external/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="external/log4jME-1_3alpha_7.jar"/>
+	<classpathentry kind="lib" path="external/slf4j-api-1.5.3.jar"/>
+	<classpathentry kind="lib" path="external/slf4j-log4j12-1.5.3.jar"/>
+	<classpathentry kind="lib" path="external/smartsockets/commons-jxpath-1.1.jar"/>
+	<classpathentry kind="lib" path="external/smartsockets/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="external/smartsockets/commons-logging.jar"/>
+	<classpathentry kind="lib" path="external/smartsockets/jstun-0.6.1.jar"/>
+	<classpathentry kind="lib" path="external/smartsockets/juds-0.94-universal.jar"/>
+	<classpathentry kind="lib" path="external/smartsockets/sbbi-upnplib-1.0.2.jar"/>
+	<classpathentry kind="lib" path="external/smartsockets/smartsockets-1.59.jar"/>
+	<classpathentry kind="lib" path="external/smartsockets/TGGraphLayout-ibis-1.58.jar"/>
+	<classpathentry kind="lib" path="external/smartsockets/trilead-ssh2-r13339-CJ.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>
